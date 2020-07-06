@@ -1,0 +1,26 @@
+/**index.wxss**/
+page {
+  background-image: url('http://image2.sina.com.cn/gm/o/i/2005-05-26/U1113P115T41D59424F757DT20050526155916.jpg');
+  background-repeat: no-repeat;
+}
+
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userinfo-avatar {
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.userinfo-nickname {
+  color: #aaa;
+}
+
+.usermotto {
+  margin-top: 200px;
+}

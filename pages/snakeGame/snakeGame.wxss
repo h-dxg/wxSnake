@@ -1,0 +1,17 @@
+/* pages/snake/snake.wxss */
+page {
+  height: 100%
+}
+
+.grades {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+.btn {
+  text-align: center;
+}
+
+.btn button {
+  background-color: aquamarine;
+}
